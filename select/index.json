@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛があれば。/鏡音リン",
+  "base_artist": "カンザキイオリ",
+  "createdAt": "2025-12-05T12:53:36.900960Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛があれば 鏡音リン",
+      "artist": "カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_愛があれば_鏡音リン_カンザキイオリ.txt"
+    }
+  ]
+}
